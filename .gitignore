@@ -1,0 +1,27 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+dist
+sdks/docs
+
+.idea
+
+#Hardhat files
+cache
+artifacts
+
+/sdks/docs/.nojekyll
+/sdks/docs/index.html
+/sdks/docs/modules.html
+/.openzeppelin/
+
+*.log
+.DS_Store
+docs
+.changeset
+
+.yarnrc.yml
+.yarn
+/.vscode/

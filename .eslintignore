@@ -1,0 +1,20 @@
+node_modules
+.env
+typechain
+sdks/docs
+
+.idea
+
+#Hardhat files
+cache
+artifacts
+
+/.openzeppelin/
+
+*.log
+.DS_Store
+.changeset
+
+.yarnrc.yml
+.yarn
+/.vscode/

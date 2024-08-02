@@ -1,0 +1,4 @@
+{
+    "**/*.{ts,js,sol}": "yarn format:fix",
+    "*.sol": "solhint"
+}
